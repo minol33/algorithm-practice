@@ -1,0 +1,5 @@
+- 몫구하기
+
+소수점 절삭 시 parseInt(num) 보다는 Math.floor(num)을 사용해야 함
+
+**Math.trunc() = 소수점 제거, 정수만 리턴**
